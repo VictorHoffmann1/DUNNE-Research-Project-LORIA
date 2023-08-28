@@ -9,6 +9,9 @@ An article available in this repository provides a detailed description of the a
 ## Dataset:
 The dataset I used is not available in this repository, since I am not allowed to share it publicly. If you are interested in this dataset please contact Julien Boisse at julien.boisse@univ-lorraine.fr
 
+## Code
+A Jupyter Notebook file available in this repository provides some of the code I wrote for this project.
+
 ## Contributors
 My work has been supervised by Julien Boisse, a researcher at LEMTA, as well as by Guenael Cabanes and Parisa Rastin, researchers at LORIA.
 
